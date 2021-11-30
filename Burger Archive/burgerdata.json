@@ -1,0 +1,350 @@
+{
+  "Burgers":[ {
+    "ID":"MMDDYY##",
+    "name":"String",
+    "description":"String",
+    "burgerDesc":"String",
+    "image":"URL",
+    "side":{
+      "sideName":"String",
+      "sideDescription":"String"},
+    "beerParing":{
+      "beer":"String",
+      "brewer":"String"},
+    "offered":{
+      "start":"YYYYMMDD",
+      "end":"YYYYMMDD"}
+  },
+ {
+    "ID":"11142101",
+    "name":"The Bacon Jam Burger",
+    "description":"This week's featured burger is the Bacon Jam Burger. Our burger topped with grilled mushrooms, a bacon and onion jam, bleu cheese crumbles, balsamic glaze and baby arugula on a toasted brioche bun. Served with a side of cordon bleu fries. Paired with Street Grab from Newgrass Brewing Company.
+",
+    "burgerDesc":"Our burger topped with grilled mushrooms, a bacon and onion jam, bleu cheese crumbles, balsamic glaze and baby arugula on a toasted brioche bun.",
+    "image":"img/111521_Burger.jpg",
+    "side":{
+      "sideName":"Cordon Bleu Fries",
+      "sideDescription":"Served with a side of cordon bleu fries."},
+    "beerParing":{
+      "beer":"Street Grab",
+      "brewer":"Newgrass Brewing Company"},
+    "offered":{
+      "start":"20211115",
+      "end":"20211121"}
+  },
+  {
+  "ID":"11082101",
+  "name":"The Spricy Carolina Burger"
+  "description":"This week's featured burger is the Spicy Carolina Burger. Our burger topped with Texas Pete infused chili, jalapeño slaw, pimento cheese, fried yellow onions and Cheerwine mustard on a toasted brioche bun. Served with Brunswick Stew. Paired with Hop Drop’n Roll from NoDa Brewing Company."
+  "burgerDesc":"Our burger topped with Texas Pete infused chili, jalapeño slaw, pimento cheese, fried yellow onions and Cheerwine mustard on a toasted brioche bun.",
+  "image":"img/110821_Burger.jpg",
+  "side":{"sideName":"Brunswick Stew",
+          "sideDescription":null }
+  "beerParing":{"beer":"Hop Drop'n Roll",
+                "brewer":"NoDa Brewing Company"},
+  "offered":{"start":"20211108",
+            "end":"20211114"}
+},
+{
+  "ID":"21012101",
+  "name":"The Deep Country Burger",
+  "description":"This week's featured burger is the Deep Country Burger. Our burger topped with aged white cheddar, deep fried country ham, red eye gravy mayo, tomato and iceberg lettuce on a toasted brioche bun. Served with a side of loaded reuben fries. Paired with Y’all’ve Changed from Fonta Flora Brewery.",
+  "burgerDesc":"Our burger topped with aged white cheddar, deep fried country ham, red eye gravy mayo, tomato and iceberg lettuce on a toasted brioche bun.",
+  "image":"img/110121_Burger.jpg",
+  "side":{
+    "sideName":"Reuben Fries",
+    "sideDescription": "A side of loaded reuben fries"
+  },
+  "beerParing":{
+    "beer":"Y'all've Changed",
+    "brewer":"Fonta Flora Brewery"
+  },
+  "offered":{
+    "start":"20211101",
+    "end":"20211107"
+  }
+},
+{
+  "ID":"10252101",
+  "name":"The Southwestern Brisket Burger",
+  "description":"This week's featured burger is the Southwestern Brisket Burger. Our burger topped with dry rubbed, slow cooked, beef brisket. Brushed with our BBQ sauce, smoked cheddar cheese, thinly sliced, deep fried okra and apple-jalapeño chutney on Texas toast. Served with a side of seasoned waffle fries and mesquite ketchup. Paired with Nothing But Blue Sky from New Anthem Beer Project.",
+  "burgerDesc":"Our burger topped with dry rubbed, slow cooked, beef brisket. Brushed with our BBQ sauce, smoked cheddar cheese, thinly sliced, deep fried okra and apple-jalapeño chutney on Texas toast.",
+  "image":"img/102521_Burger.jpg",
+  "side":{"sideName":"Waffle Fries"
+          "sideDescription":"A side of seasoned waffle fries and mesquite ketchup"},
+  "beerParing":{"beer":"Nothing But Blue Sky",
+                "brewer":"New Anthem Beer Project"},
+  "offered":{"start":"20211025",
+            "end":"20211031"}
+},
+{
+  "ID":"10182101",
+  "name":"The Uptown Chicken & Waffle Sandwich",
+  "description":"This week’s featured burger is not a burger, it’s the Uptown Chicken & Waffle Sandwich. A fried chicken breast marinated in a Bloody Mary mix, tossed in maple-sriracha sauce, and topped with jalapeño bacon, bourbon pickles, a fried egg and lettuce, served on Belgian waffles. Served with a side of cheddar-jalapeño potato nuggets and tangy ketchup. Paired with Time Marches On from Heist Brewery.",
+  "burgerDesc":"A fried chicken breast marinated in a Bloody Mary mix, tossed in maple-sriracha sauce, and topped with jalapeño bacon, bourbon pickles, a fried egg and lettuce, served on Belgian waffles.",
+  "image":"img/101821_Burger.jpg",
+  "side": {"sideName":"Cheddar-Jalapeño Potato Nuggets",
+          "sideDescription":"A side of cheddar-jalapeño potato nuggets and tangy ketchup"},
+  "beerParing":{"beer":"Time Marches On",
+                "brewer":"Heist Brewery"},
+  "offered":{"start":"20211018",
+            "end":"20211024"}
+},
+{
+  "ID":"10112101",
+  "name":"The Havarti Horseradish Burger",
+  "description":"This week's featured burger is the Havarti Horseradish Burger. Our burger topped with havarti cheese, crispy fried red onions, a horseradish steak sauce, lettuce and tomato on a toasted brioche bun. Served with a side of creamy mushroom stroganoff. Paired with Hive Fives from Heist Brewery.",
+  "burgerDesc":"Our burger topped with havarti cheese, crispy fried red onions, a horseradish steak sauce, lettuce and tomato on a toasted brioche bun.",
+  "image":"img/101121_Burger.jpg",
+  "side":{"sideName":"Mushroom Stroganoff",
+          "sideDescription":"A side of creamy mushroom stroganoff"},
+  "beerParing":{"beer":"High Fives",
+                "brewer":"Heist Brewery"},
+  "offered":{"start":"20211011",
+            "end":"20211017"}
+},
+  {
+    "ID":"10052101",
+    "name":"The Pepperoni Pizza Burger",
+    "description":"This week's featured burger is the Pepperoni Pizza Burger. Our burger topped with mozzarella, pepperoni, pizza sauce, mushrooms, red onions, sliced pepperoncini and red pepper flakes on a toasted brioche bun. Served with a side of fried brussel sprouts and a caesar dipping sauce. Paired with Surfwax from Burial Beer Company.",
+    "burgerDesc":"Our burger topped with mozzarella, pepperoni, pizza sauce, mushrooms, red onions, sliced pepperoncini and red pepper flakes on a toasted brioche bun.",
+    "image":"100521_Burger.jpg",
+    "side":{
+      "sideName":"Fried Brussel Sprouts",
+      "sideDescription":"A side of fried brussel sprouts and a caesar dipping sauce"
+    },
+    "beerParing":{
+      "beer":"Surfwax",
+      "brewer":"Burial Beer Company"},
+    "offered":{
+      "start":"20211005",
+      "end":"20211010"
+    }
+  },
+  {
+    "ID":"09272101",
+    "name":"The Hibachi Burger",
+    "description":"This week's featured burger is the Hibachi Burger. Our burger topped with fried rice, grilled shrimp, crispy wonton strips and Japanese white sauce on a toasted sriracha bun. Served with a side of tempura battered zucchini and carrot chips with soy-ginger sauce. Paired with Tangyland from Sycamore Brewing.",
+    "burgerDesc":"Our burger topped with fried rice, grilled shrimp, crispy wonton strips and Japanese white sauce on a toasted sriracha bun.",
+    "image":"img/092721_Burger.jpg",
+    "side":{
+      "sideName":"Zucchini and Carrot Chips",
+      "sideDescription":"A side of tempura battered zucchini and carrot chips with soy-ginger sauce."
+    },
+    "beerParing":{
+      "beer":"Tanglyland",
+      "brewer":"Sycamore Brewing"},
+    "offered":{
+      "start":"20210927",
+      "end":"20211003"
+    }
+  },
+  {
+    "ID":"09202101",
+    "name":"The Alfredo Sandwich",
+    "description":"This week’s featured burger is not a burger, it’s the Chicken Alfredo Sandwich. An herb marinated and fried chicken breast, topped with sautéed portobello mushrooms, pancetta, roasted garlic Alfredo sauce and baby spinach on a toasted ciabatta bun. Served with a side of mozzarella sticks and marinara. Paired with the Dark Side of Hope from DSSOLVR.",
+    "burgerDesc":"An herb marinated and fried chicken breast, topped with sautéed portobello mushrooms, pancetta, roasted garlic Alfredo sauce and baby spinach on a toasted ciabatta bun.",
+    "image":"img/092021_Burger.jpg",
+    "side":{
+      "sideName":" Mozzarella Sticks",
+      "sideDescription":"A side of mozzarella sticks and marinara"
+    },
+    "beerParing":{
+      "beer":"Dark Side of Hope",
+      "brewer":"DSSOLVR"},
+    "offered":{
+      "start":"20210920",
+      "end":"20210926"
+    }
+  },
+  {
+    "ID":"09132101",
+    "name":"The Bangers and Mash Burger",
+    "description":"This week’s featured burger is the Bangers and Mash Burger. Our burger topped with sausage links, caramelized onions, garlic and herb mashed potatoes, and an onion gravy on a toasted brioche bun. Served with a side of corned beef and cabbage tossed in a Guinness mustard glaze. Paired with Maybe I’ll Catch a Fire from Newgrass Brewing Company.",
+    "burgerDesc":"Our burger topped with sausage links, caramelized onions, garlic and herb mashed potatoes, and an onion gravy on a toasted brioche bun.",
+    "image":"img/091321_Burger.jpg",
+    "side":{
+      "sideName":"Corned Beef and Cabbage",
+      "sideDescription":"A side of corned beef and cabbage tossed in a Guinness mustard glaze."
+    },
+    "beerParing":{
+      "beer":"Maybe I'll Catch a Fire",
+      "brewer":"Newgrass Brewing Company"},
+    "offered":{
+      "start":"20210913",
+      "end":"20210919"
+    }
+  },
+  {
+    "ID":"09062101",
+    "name":"The Southern Pork Burger",
+    "description":"This week’s featured burger is the Southern Pork Burger. A ground pork patty topped with pimento cheese, a pickle and pepper relish and slaw tossed in a South Carolina BBQ sauce on a toasted brioche bun. Served with a side of potato wedges with a spicy ranch seasoning and smoky ketchup.",
+    "burgerDesc":"A ground pork patty topped with pimento cheese, a pickle and pepper relish and slaw tossed in a South Carolina BBQ sauce on a toasted brioche bun.",
+    "image":"img/090621_Burger.jpg",
+    "side":{
+      "sideName":"Potato Wedges",
+      "sideDescription":"A side of potato wedges with a spicy ranch seasoning and smoky ketchup."
+    },
+    "beerParing":{
+      "beer":null,
+      "brewer":null},
+    "offered":{
+      "start":"20210906",
+      "end":"20210912"
+    }
+  },
+  {
+      "ID":"08302101",
+      "name":"The Chesapeak Bay Burger",
+      "description":"This week’s featured burger is the Chesapeake Bay Burger. Our burger topped with a fried crab cake, swiss cheese, applewood bacon and cocktail sauce on a toasted brioche bun. Served with a side of Old Bay seasoned onion rings and house sauce. Paired with Billows from Burial Beer Company.",
+      "burgerDesc":"Our burger topped with a fried crab cake, swiss cheese, applewood bacon and cocktail sauce on a toasted brioche bun.",
+      "image":"img/083021_Burger.jpg",
+      "side":{
+        "sideName":"Onion Rings",
+        "sideDescription":"A side of Old Bay seasoned onion rings and house sauce."
+      },
+      "beerParing":{
+        "beer":"Billows",
+        "brewer":"Burial Beer Company"},
+      "offered":{
+        "start":"20210830",
+        "end":"20210905"
+      }
+    },
+    {
+        "ID":"08232101",
+        "name":"The Caribean Burger",
+        "description":"This week’s featured burger is the Caribbean Burger. Our burger topped with Jamaican jerk sauce, cheddar cheese, fried pineapple rings, red onions, a chipotle and orange aioli and lettuce on a toasted brioche bun. Served with a side of cinnamon sugar sweet fries topped with a rum-coconut cream cheese sauce. Paired with Tropical Session IPA from Brown Truck Brewery.",
+        "burgerDesc":"Our burger topped with Jamaican jerk sauce, cheddar cheese, fried pineapple rings, red onions, a chipotle and orange aioli and lettuce on a toasted brioche bun.",
+        "image":"img/082321_Burger.jpg",
+        "side":{
+          "sideName":"Sweet Potato Fries",
+          "sideDescription":"A side of cinnamon sugar sweet fries topped with a rum-coconut cream cheese sauce"
+        },
+        "beerParing":{
+          "beer":"Tropical Session IPA",
+          "brewer":"Brown Truck Brewery"},
+        "offered":{
+          "start":"20210823",
+          "end":"20210829"
+        }
+      },
+      {
+          "ID":"08162101",
+          "name":"The Black & Bleu Burger",
+          "description":"This week’s featured burger is the Black & Bleu Burger. Our burger with blackened seasoning and topped with bourbon glazed bacon and a creamy blue cheese slaw on a toasted brioche bun. Served with a side of jalapeno popper corn salad. Paired with Bones & Waves from DSSOLVR.",
+          "burgerDesc":"Our burger with blackened seasoning and topped with bourbon glazed bacon and a creamy blue cheese slaw on a toasted brioche bun.",
+          "image":"img/081621_Burger.jpg",
+          "side":{
+            "sideName":"Jalapeno Popper Corn Salad",
+            "sideDescription":"A side of jalapeno popper corn salad"
+          },
+          "beerParing":{
+            "beer":"Bones & Waves",
+            "brewer":"DSSOLVR"},
+          "offered":{
+            "start":"20210816",
+            "end":"20210822"
+        }
+        },
+      {
+          "ID":"08092101",
+          "name":"The State Fair Burger",
+          "description":"This week’s featured burger is the State Fair Burger. Our burger topped with aged white cheddar, pulled pork in a Cheerwine barbecue sauce, fried bourbon pickles and chipotle ranch on a toasted pretzel bun. Served with a side of funnel cake bites with pepper jelly. Paired with Space Pegasus from Booneshine Brewing Company.",
+          "burgerDesc":"Our burger topped with aged white cheddar, pulled pork in a Cheerwine barbecue sauce, fried bourbon pickles and chipotle ranch on a toasted pretzel bun.",
+          "image":"img/080921_Burger.jpg",
+          "side":{
+            "sideName":"Funnel Cake Bites",
+            "sideDescription":"A side of funnel cake bites with pepper jelly."
+          },
+          "beerParing":{
+            "beer":"Space Pegasus",
+            "brewer":"Booneshine Brewing Company"},
+          "offered":{
+            "start":"20210809",
+            "end":"20210815"
+        }
+        },
+      {
+          "ID":"08022101",
+          "name":"The Shroom & Swiss Burger",
+          "description":"This week’s featured burger is the Shroom and Swiss Burger. Our burger topped with a mix of cremini and button mushrooms, Swiss cheese, pepper crusted bacon, an herb cream sauce and diced green onions on a toasted brioche bun. Served with a side of Cajun and lemon pepper curly fries. Paired with Hop Beard from Fonta Flora Brewery.",
+          "burgerDesc":"Our burger topped with a mix of cremini and button mushrooms, Swiss cheese, pepper crusted bacon, an herb cream sauce and diced green onions on a toasted brioche bun.",
+          "image":"img/080221_Burger.jpg",
+          "side":{
+            "sideName":"Curly Fries",
+            "sideDescription":"A side of Cajun and lemon pepper curly fries."
+          },
+          "beerParing":{
+            "beer":"Hop Beard",
+            "brewer":"Fonta Flora Brewery"},
+          "offered":{
+            "start":"20210802",
+            "end":"20210808"
+        }
+      },
+      {
+        "ID":"07262101",
+        "name":"The Shrimp PoBoy",
+        "description":"This week’s featured burger is not a burger, it’s the Shrimp PoBoy. Deep fried, tropical seasoned shrimp topped with Monterey jack cheese, tomato, pickles and a mango-lime remoulade on a toasted French baguette. Served with a side of jalapeno hush puppies with Caribbean jerk ketchup. Paired with Addicted To The Shindig from Heist Brewery.",
+        "burgerDesc":"Deep fried, tropical seasoned shrimp topped with Monterey jack cheese, tomato, pickles and a mango-lime remoulade on a toasted French baguette.",
+        "image":"img/072621_Burger.jpg",
+        "side":{
+          "sideName":"Jalapeno Hush Puppies",
+          "sideDescription":"Served with a side of jalapeno hush puppies with Caribbean jerk ketchup."},
+        "beerParing":{
+          "beer":"The Shindig",
+          "brewer":"Heist Brewery"},
+        "offered":{
+          "start":"20210726",
+          "end":"20210801"}
+        },
+      {
+        "ID":"07202101",
+        "name":"The French Dip Burger",
+        "description":"This week’s featured burger is the French Dip Burger. Our burger topped with shaved roast beef, balsamic grilled onions, provolone cheese and a horseradish cream sauce on a toasted brioche bun with a side of au jus. Served with a side of popcorn fried okra and smoky dipping sauce. Paired with Chasing the Horizon from Perennial Artisan Ales.",
+        "burgerDesc":"Our burger topped with shaved roast beef, balsamic grilled onions, provolone cheese and a horseradish cream sauce on a toasted brioche bun with a side of au jus.",
+        "image":"img/072021_Burger.jpg",
+        "side":{
+          "sideName":"Popcorn Fried okra",
+          "sideDescription":"Served with a side of popcorn fried okra and smoky dipping sauce."},
+        "beerParing":{
+          "beer":"Chasing the Horizon",
+          "brewer":"Perennial Artisan Ales"},
+        "offered":{
+          "start":"20210720",
+          "end":"20210725"}
+        },
+        {
+          "ID":"07122101",
+          "name":"Fish & Chips",
+          "description":"This week’s featured burger is not a burger, it’s Fish & Chips. A beer battered Haddock filet topped with arugula, Tabasco-spiked red onions, tomato and a lemon-caper remoulade on a toasted hoagie roll. Served with a side of seasoned chips and a malt vinegar dip. Paired with It’s all Bueno from Casita Brewing Company.",
+          "burgerDesc":"A beer battered Haddock filet topped with arugula, Tabasco-spiked red onions, tomato and a lemon-caper remoulade on a toasted hoagie roll.",
+          "image":"img/071221_Burger.jpg",
+          "side":{
+            "sideName":"Chips",
+            "sideDescription":"Served with a side of seasoned chips and a malt vinegar dip."},
+          "beerParing":{
+            "beer":"It's All Bueno",
+            "brewer":"Casita Brewing Company"},
+          "offered":{
+            "start":"20210712",
+            "end":"20210718"}
+          },
+          {
+            "ID":"07052101",
+            "name":"The Chicago Italian Burger",
+            "description":"This week’s featured burger is the Chicago Italian Burger. Our burger topped with crispy prosciutto, smoked provolone, giardiniera relish, and a cabernet mustard glaze on a toasted basil-tomato focaccia bun. Served with a side of mozzarella and tomato arancini and balsamic glaze with a side of marinara. Paired with Radio Haze from NoDa Brewing Company.",
+            "burgerDesc":"Our burger topped with crispy prosciutto, smoked provolone, giardiniera relish, and a cabernet mustard glaze on a toasted basil-tomato focaccia bun.",
+            "image":"img/070521_Burger.jpg",
+            "side":{
+              "sideName":"Mozzarella and Tomato Arancini",
+              "sideDescription":"Served with a side of mozzarella and tomato arancini and balsamic glaze with a side of marinara."},
+            "beerParing":{
+              "beer":"Radio Haze",
+              "brewer":"NoDa Brewing Company"},
+            "offered":{
+              "start":"20210705",
+              "end":"20210711"}
+          },
+]};
